@@ -30,7 +30,7 @@ Besides, I noticed that the course content was added to it. When I took the cert
 
 #### Day 1: 2h20min - [Fork the repo and put your dates here for better accountability :)]
 
-##### Welcome
+##### Welcome - Introduction
 
 1. Introduction - 6m18s (15min)
 
@@ -38,11 +38,33 @@ Besides, I noticed that the course content was added to it. When I took the cert
 
 2. Introduction To Information Gathering - 9m22s (20min)
 
-##### Passive Information Gathering
+##### Lessons - Passive Information Gathering
 
 3. Website Recon & Footprinting - 20m55s (40min)
 4. Whois Enumeration - 7m56s (15min)
 5. Website Footprinting With Netcraft - 10m47s (20min)
 6. DNS Recon - 13m34s (30min)
 
-#### Day 2: 
+#### Day 2: 2h
+
+1. WAF With wafw00f - 7m31s (15min)
+2. Subdomain Enumeration With Sublist3r - 11m36s (20min)
+3. Google Dorks - 22m51s (45min)
+4. Email Harvesting With theHarvester - 13m (25min)
+5. Leaked Password Databases - 8m (15min)
+
+End of Passive Information Gathering section.
+
+#### Day 3: 2h30min
+
+##### Lessons - Active Information Gathering
+
+1. DNS Zone Transfers - 28m15s (1h)
+2. Host Discovery With Nmap - 7m2s (15min)
+3. Port Scanning With Nmap - 26m17s (1h15min)
+
+##### Goodbye - Conclusion
+
+5. Course Conclusion - 1m13s
+
+End of Course 1! 
