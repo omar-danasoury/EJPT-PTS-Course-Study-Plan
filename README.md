@@ -22,6 +22,8 @@ A note here, you do not have to do all CTFs before the exam. Personally, I did n
 
 However, I recommend you doing some machines before the exam as this will make the exam more easy for you to pass. Inshallah I will write about my exam experience soon and I will leave a reference for it here!
 
+Besides, I noticed that the course content was added to it. When I took the certification two months ago from the dates I am writing the repo in, the content length was 148h. Now, it is more than 156h. So, this plan is according to the length 156h 17m according to the official site. 
+
 ## Section 1: Assessment Methodologies
 
 ### Course 1: Assessment Methodologies: Information Gathering
