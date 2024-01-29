@@ -14,7 +14,7 @@ You can either watch the complete first and then apply the lab, or apply the lab
 
 The goal is to spend around 2-3 hours each day studying the course materials. Note that this study plan does not consider time for revision or practicing what you have learned through CTFs. You can manage this on your own on the pace that suits you.
 
-[This repository}(https://github.com/N1NJ10/EJPT_Prep) contains a list of good THM rooms to do for the eJPT exam. Thanks to [N1NJ10](https://github.com/N1NJ10)!
+[This repository](https://github.com/N1NJ10/EJPT_Prep) contains a list of good THM rooms to do for the eJPT exam. Thanks to [N1NJ10](https://github.com/N1NJ10)!
 
 ### Note
 
@@ -22,4 +22,25 @@ A note here, you do not have to do all CTFs before the exam. Personally, I did n
 
 However, I recommend you doing some machines before the exam as this will make the exam more easy for you to pass. Inshallah I will write about my exam experience soon and I will leave a reference for it here!
 
-## Course 01:
+## Section 1: Assessment Methodologies
+
+### Course 1: Assessment Methodologies: Information Gathering
+
+#### Day 1: 2h20min - [Fork the repo and put your dates here for better accountability :)]
+
+##### Welcome
+
+1. Introduction - 6m18s (15min)
+
+##### Introduction To Information Gathering
+
+2. Introduction To Information Gathering - 9m22s (20min)
+
+##### Passive Information Gathering
+
+3. Website Recon & Footprinting - 20m55s (40min)
+4. Whois Enumeration - 7m56s (15min)
+5. Website Footprinting With Netcraft - 10m47s (20min)
+6. DNS Recon - 13m34s (30min)
+
+#### Day 2: 
