@@ -68,3 +68,42 @@ End of Passive Information Gathering section.
 5. Course Conclusion - 1m13s
 
 End of Course 1! 
+
+### Course 2: Assessment Methodologies: Footprinting & Scanning
+
+Obviously, this course was updated (so the content went from 148h to 156h). I remember it was around 5h long. now it is around 11h. They added some good stuff.
+
+#### Day 4: 2h
+
+##### Welcome - Introduction
+
+1. Course Introduction - 12m17s (15min)
+
+##### Lessons - Introduction
+
+2. Active Information Gathering - 7m18s (15min)
+
+##### Lessons - Networking Primer
+
+3. Networking Fundamentals - 15m38s (30min)
+4. Network Layer - 31m42s (1h)
+
+#### Day 5: 2h
+
+5. Transport Layer - Part 1 - 21m48s (40min)
+6. Transport Layer - Part 2 - 15m56s (30min)
+
+##### Lessons - Host Discovery
+
+7. Netowrk Mapping - 13m3s (30min) 
+8. Host Discovery Techniques - 10m5s (20min)
+
+#### Day 6: 2h40min
+
+1. Ping Sweeps - 23m28s (50min)
+2. Host Discovery With Nmap - Part 1 - 23m29s (50min)
+3. Host Discovery With Nmap - Part 2 - 27m30s (1h)
+
+#### Day 7: 
+
+##### Lessons - Port Scanning
