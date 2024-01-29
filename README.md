@@ -1,4 +1,4 @@
-# EJPT-Course-Study-Plan
+# EJPT-PTS-Course-Study-Plan
 
 This is a study plan for the official materials and content from INE for the Penetration Testing Student (PTS) course materials.
 
