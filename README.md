@@ -12,6 +12,14 @@ You can either watch the complete first and then apply the lab, or apply the lab
 
 ## Daily Goal
 
-The goal is to spend around 2 hours each day studying the course materials. Note that this study plan does not consider time for revision or applying what you have learned on CTFs. You can manage this on your own on the pace that suits you.
+The goal is to spend around 2-3 hours each day studying the course materials. Note that this study plan does not consider time for revision or practicing what you have learned through CTFs. You can manage this on your own on the pace that suits you.
+
+[This repository}(https://github.com/N1NJ10/EJPT_Prep) contains a list of good THM rooms to do for the eJPT exam. Thanks to [N1NJ10](https://github.com/N1NJ10)!
+
+### Note
+
+A note here, you do not have to do all CTFs before the exam. Personally, I did not do any CTF before the exam - except the black-box machines that were provided during the course, and I managed to pass the exam.
+
+However, I recommend you doing some machines before the exam as this will make the exam more easy for you to pass. Inshallah I will write about my exam experience soon and I will leave a reference for it here!
 
 ## Course 01:
