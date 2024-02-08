@@ -104,6 +104,37 @@ Obviously, this course was updated (so the content went from 148h to 156h). I re
 2. Host Discovery With Nmap - Part 1 - 23m29s (50min)
 3. Host Discovery With Nmap - Part 2 - 27m30s (1h)
 
-#### Day 7: 
+#### Day 7: 3h20min 
 
 ##### Lessons - Port Scanning
+
+1. Port Scanning With Nmap - Part 1 - 17m32s (40min)
+2. Port Scanning With Nmap - Part 2 - 19m28s (40min)
+3. Service Version & OS Detection - 16m18s (30min)
+4. Nmap Scripting Engine (NSE) - 32m24s (1h30min)
+
+#### Day 8: 2h50min
+
+##### Lesson - Firewall/IDS Evation
+
+1. Firewall Detection & IDS Evasion - 26m22s (1h)
+
+##### Lesson - Scan Timing & Performance
+
+2. Optimizing Nmap Scans - 20m24s (40min)
+
+##### Lesson - Output & Verbosity
+
+3. Nmap Output Formats - 22m6s (1h)
+
+##### Goodbye - Conclusion
+
+4. Course Conclusion - 9m17s
+
+### Day 9:
+
+##### Additional Labs
+
+1. Windows Recon: Zenmap - 15min
+2. Scan the Server 2 - 15min
+3. Scan the Server 3 - 15min
